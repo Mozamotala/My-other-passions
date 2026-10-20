@@ -94,6 +94,10 @@ As of 2026 I've started logging my anime on AniList: [my anime list](https://ani
   <img src="images/setup/mouse.jpg" width="30%" alt="Razer Viper Ultimate in a 3D-printed shell">
 </p>
 
+**GPU overclock (MSI Afterburner):** +180 MHz core, +1650 MHz memory, 108% power limit, 90°C temp limit, +5% core voltage. Idles around 32°C.
+
+<img src="images/setup/gpu-overclock.png" width="70%" alt="MSI Afterburner overclock settings on the RTX 3060 Ti">
+
 ## How it connects
 
 Cars, plants, and servers all reward the same habit: stay curious, test one thing at a time, and don't be afraid to break something and learn from it. That's how I want to work in cybersecurity.
