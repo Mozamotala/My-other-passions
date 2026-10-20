@@ -29,11 +29,21 @@ The goal: build a monster that destroys my dad's M2 Competition.
 
 ### Where I source parts
 
-- [NV Performance](https://nvperformance.co.za) (South Africa)
-- [Race-Era](https://race-era.co.za) (South Africa)
-- [RPM Uni](https://rpmuni.co.za) (South Africa)
-- [StageFP](https://stagefp.com) (US)
-- Scott's Shipping: importer for US- and EU-spec parts
+**South Africa**
+
+- [54 Autoworks](https://54autoworks.co.za/)
+- [Africa Boyz](https://africaboyzonline.com/)
+- [NV Performance](https://nvperformance.co.za)
+- [Race-Era](https://race-era.co.za)
+- [RPM Uni](https://rpmuni.co.za)
+
+**US**
+
+- [ECS Tuning](https://www.ecstuning.com/BMW-E92-335i-N54_3.0L/Exhaust/Performance/2): N54 exhaust and performance parts
+- [Turner Motorsport](https://www.turnermotorsport.com/p-37419756-ecs-n54n55-cat-back-exhaust-ecs-intake-turner-ignition-coils/): N54/N55 cat-back exhaust, intake and ignition coils
+- [StageFP](https://stagefp.com)
+
+**Importing:** US- and EU-spec orders (like ECS Tuning parts and the MaxJax lift) come in through Scott's Shipping, with Aramex Global Shopper as the backup.
 
 ### Not even a month in
 
