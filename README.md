@@ -13,7 +13,7 @@ I'm into European performance cars, and I've been under the bonnet of a few.
 
 The goal: build a monster that destroys my dad's M2 Competition.
 
-- **MHD Stage 2+ tune:** flashed with MHD, with the rev limit raised to 7,600 rpm
+- **MHD Stage 2+ tune:** ECU tuning through ECS Tuning, flashed with MHD, with the rev limit raised to 7,600 rpm
 - **MOTIV Re|Flex:** flex-fuel support for the tune
 - **Upgraded Stage 2 turbos:** to replace the stock twins
 - **Higher compression**
@@ -70,6 +70,15 @@ I grow chillies, tomatoes and citrus. Plants don't care about deadlines, so it's
 I've tracked 600+ anime titles, and I listen to a lot of J-pop, mainly 9lana and Ado.
 
 As of 2026 I've started logging my anime on AniList: [my anime list](https://anilist.co/user/Rikuaganeia/animelist)
+
+### Apple Music Replay: September 2026
+
+1,161 minutes in September. Top artists were 9Lana, YOASOBI, Roce and Joji.
+
+<p>
+  <img src="images/music/replay-sep-2026-artists.jpg" width="100%" alt="Apple Music Replay September 2026: top artists">
+  <img src="images/music/replay-sep-2026-songs.jpg" width="100%" alt="Apple Music Replay September 2026: top songs">
+</p>
 
 ## Gaming PC setup
 
