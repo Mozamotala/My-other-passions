@@ -11,14 +11,29 @@ I'm into European performance cars, and I've been under the bonnet of a few.
 
 ### 135i future parts list
 
-The goal is around 400whp on 95 RON pump fuel, on the stock turbos, without cutting into the factory wiring.
+The goal: build a monster that destroys my dad's M2 Competition.
 
-- **JB4 N54 tuner:** plug-and-play, with eco, normal, sport, and sport + meth maps I can switch between on the fly
-- **JB4 water/methanol injection kit:** pump and tank in the boot, line run forward to the engine bay, as the safety margin for the higher boost
+- **MHD Stage 2+ tune:** flashed with MHD, with the rev limit raised to 7,600 rpm
+- **MOTIV Re|Flex:** flex-fuel support for the tune
+- **Upgraded Stage 2 turbos:** to replace the stock twins
+- **Higher compression**
+- **Water/methanol injection kit:** pump and tank in the boot, line run forward to the engine bay, as the safety margin for the higher boost
 - **Charge pipe and blow-off valve:** to replace the weak stock plastic parts
 - **UniClutch Sport 875Nm dual-core clutch:** to replace the slipping stock clutch (planning to fit it myself)
 - **Heat-soak fixes I'm weighing:** StageFP water-to-air intercooler intake manifold, a bigger front-mount intercooler, and an extra oil cooler
 - **Driver's bucket seat:** MOMO Start on an OMP E82 bracket
+
+### Garage wishlist
+
+- **[MaxJax M7K portable two-post lift](https://www.maxjax.com/car-lifts/portable-car-lifts/m7k-standard-package-portable-car-lift-7000-lbs-capacity-5175548-maxjax):** a "half-size" lift that fits my low garage, mainly for dropping the transmission
+
+### Where I source parts
+
+- [NV Performance](https://nvperformance.co.za) (South Africa)
+- [Race-Era](https://race-era.co.za) (South Africa)
+- [RPM Uni](https://rpmuni.co.za) (South Africa)
+- [StageFP](https://stagefp.com) (US)
+- Scott's Shipping: importer for US- and EU-spec parts
 
 ### Not even a month in
 
@@ -54,6 +69,11 @@ As of 2026 I've started logging my anime on AniList: [my anime list](https://ani
 - **Mic:** first-gen FIFINE on a boom arm with a pop filter
 - **Keyboard:** Glorious GMMK 2 with custom keycaps and Glorious Fox switches
 - **Mouse:** Razer Viper Ultimate (v1) in an upgraded 3D-printed shell inspired by the Viper Mini Signature Edition
+
+<p>
+  <img src="images/setup/keyboard.jpg" width="60%" alt="Glorious GMMK 2 with custom keycaps">
+  <img src="images/setup/mouse.jpg" width="30%" alt="Razer Viper Ultimate in a 3D-printed shell">
+</p>
 
 ## How it connects
 
