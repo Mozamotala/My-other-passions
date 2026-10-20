@@ -9,6 +9,31 @@ I'm into European performance cars, and I've been under the bonnet of a few.
 - **Mercedes-Benz W211 E550 (M273 V8):** diagnosed and fixed an Airmatic suspension problem, and worked through a transmission fluid service, vacuum hose repairs, and oil consumption and coolant concerns.
 - **BMW 135i (E82, N54 twin-turbo):** I read fault codes with an OBD adapter and BimmerLink, tracked down O2 sensor, boost pressure and DME faults, and found and fixed a boost leak myself. I used realoem.com to decode the VIN and research parts. A tune is planned, and I'm researching the options carefully before spending anything.
 
+### 135i future parts list
+
+The goal is around 400whp on 95 RON pump fuel, on the stock turbos, without cutting into the factory wiring.
+
+- **JB4 N54 tuner:** plug-and-play, with eco, normal, sport, and sport + meth maps I can switch between on the fly
+- **JB4 water/methanol injection kit:** pump and tank in the boot, line run forward to the engine bay, as the safety margin for the higher boost
+- **Charge pipe and blow-off valve:** to replace the weak stock plastic parts
+- **UniClutch Sport 875Nm dual-core clutch:** to replace the slipping stock clutch (planning to fit it myself)
+- **Heat-soak fixes I'm weighing:** StageFP water-to-air intercooler intake manifold, a bigger front-mount intercooler, and an extra oil cooler
+- **Driver's bucket seat:** MOMO Start on an OMP E82 bracket
+
+### Not even a month in
+
+Not even a month into ownership and it's already apart: bumper and headlight off, radiator and intercooler out, and a broken bracket to replace.
+
+<p>
+  <img src="images/135i/01-front-off.jpg" width="49%" alt="135i with the front bumper off">
+  <img src="images/135i/03-bumper.jpg" width="49%" alt="Front bumper removed">
+</p>
+<p>
+  <img src="images/135i/04-radiator.jpg" width="32%" alt="Radiator out of the car">
+  <img src="images/135i/02-intercooler.jpg" width="32%" alt="Intercooler out of the car">
+  <img src="images/135i/05-broken-bracket.jpg" width="32%" alt="Broken bracket">
+</p>
+
 **What it taught me:** diagnose before you replace anything. Fault codes are clues, not answers, and the same approach fixes servers and code. Dream car: a Porsche 930 Turbo.
 
 ## Gardening
@@ -18,6 +43,17 @@ I grow chillies, tomatoes and citrus. Plants don't care about deadlines, so it's
 ## Anime and music
 
 I've tracked 600+ anime titles, and I listen to a lot of J-pop, mainly 9lana and Ado.
+
+As of 2026 I've started logging my anime on AniList: [my anime list](https://anilist.co/user/Rikuaganeia/animelist)
+
+## Gaming PC setup
+
+- **PC:** Ryzen 7 5800X (overclocked hard), RTX 3060 Ti, 4TB of storage
+- **Case:** Thermaltake Core P5 open-frame ATX, wall-mounted
+- **Monitors:** LG ultrawide plus a vertical ASUS ROG, both on monitor arms
+- **Mic:** first-gen FIFINE on a boom arm with a pop filter
+- **Keyboard:** Glorious GMMK 2 with custom keycaps and Glorious Fox switches
+- **Mouse:** Razer Viper Ultimate (v1) in an upgraded 3D-printed shell inspired by the Viper Mini Signature Edition
 
 ## How it connects
 
